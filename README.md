@@ -1,5 +1,5 @@
 # tpaatividadeimc
 
-Neste projeto, a partir do nome, da idade e da altura do usuário, calcula-se o IMC e avalia-se em qual faixa de peso ele se encontra. A solução pode ser utilizada por médicos, nutricionistas e educadores físicos, por exemplo.
+Neste projeto foi feito a demanda da Julia para atender sua nessecidade de fazer o calculo de imc dos seus clientes pegando o nome, peso e altura e criando uma mensagem para cada um de forma personalizada!
 
 <a href="https://eduardoarezandesilva.github.io/tpaatividadeimc/"><img src=".\tela.PNG" width="250px"></a>
