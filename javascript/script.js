@@ -9,8 +9,8 @@ function calcular()
     {
         const imc = (peso / (altura * altura)).toFixed(1)
 
-        const peso_min = (18.6 * (altura **)).toFixed(1)
-        const peso_max = (24.9 * (altura **)).toFixed(1)
+        const peso_min = (18.6 * (altura**2)).toFixed(1)
+        const peso_max = (24.9 * (altura**2)).toFixed(1)
         
         if(imc <= 18.5)
         {
